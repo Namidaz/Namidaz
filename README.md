@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I am Namidaz
 
+I am a programmer with a passion for web technologies and open source.
 <!--
 **Namidaz/Namidaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
