@@ -18,7 +18,7 @@ I am a programmer with a passion for web technologies and open source 😄
 
 
 
-#### ** You are probably looking for 🤔  **
+#### **You are probably looking for 🤔**
 
 -  [My `dotfiles`](https://github.com/namidaz/dotfiles) - This is how I make myself feel like a fast ⚡ developer.
 
