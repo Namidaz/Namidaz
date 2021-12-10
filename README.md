@@ -23,7 +23,7 @@ I am a programmer with a passion for web technologies and open source 😄
 -  [My `dotfiles`](https://github.com/namidaz/dotfiles) - This is how I make myself feel like a fast ⚡ developer.
 
 
-- I am using [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my daily development, here is my [EFI for Lenovo-WEI6-Pro-13-IWL-Hackintosh ](https://github.com/namidaz/Lenovo-WEI6-Pro-13-IWL-Hackintosh)
+- I am using [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my daily development, here is my [EFI for Lenovo-WEI6-Pro-13-IWL-Hackintosh ](https://github.com/namidaz/Thinkbook-13s-IWL-EFI-Hackintosh)
 
 
 
