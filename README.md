@@ -1,6 +1,33 @@
 ### Hi there 👋 , I am Namidaz
 
-I am a programmer with a passion for web technologies and open source.
+> I am a programmer with a passion for web technologies and open source😄.
+
+
+
+####  I’m currently working on Learning...
+
+
+
+#### How to reach me: 
+
+- [My Blog](https://namidaz.github.io)
+- [Twtter](https://twitter.com/namidzi)
+- [E-Mail](mocky.cn@gmail.com)
+
+
+
+#### **You are probably also looking for...**
+
+[My `dotfiles`](https://github.com/namidaz/dotfiles) - This is how I make myself feel like a fast developer.
+
+I am using [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my daily development, here is my [EFI for Lenovo-WEI6-Pro-13-IWL-Hackintosh ](https://github.com/namidaz/Lenovo-WEI6-Pro-13-IWL-Hackintosh)
+
+
+
+Find more of my awesome projects below or subscribe to me by clicking the "Follow" button. If you like my projects, please star me ⭐️, thanks! 
+
+
+
 <!--
 **Namidaz/Namidaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
