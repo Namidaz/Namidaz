@@ -6,11 +6,11 @@ I am a programmer with a passion for web technologies and open source😄.
 
 
 
-####  🔭  I’m currently working on Learning...
+####  🔭   I’m currently working on Learning...
 
 
 
-#### 📫  How to reach me: 
+####  📫   How to reach me: 
 
 - [My Blog](https://namidaz.github.io)
 - [Twtter](https://twitter.com/namidzi)
@@ -18,7 +18,7 @@ I am a programmer with a passion for web technologies and open source😄.
 
 
 
-#### ** 🤔 You are probably looking for...**
+#### **  🤔  You are probably looking for...**
 
 ⚡ [My `dotfiles`](https://github.com/namidaz/dotfiles) - This is how I make myself feel like a fast developer.
 
@@ -26,7 +26,7 @@ I am using [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my daily de
 
 
 
-Find more of my awesome projects below or subscribe to me by clicking the "Follow" button. If you like my projects, please star me ⭐️, thanks! 
+Find more of my awesome projects below or subscribe to me by clicking the "Follow" button. If you like my projects, please star me stars⭐️ thanks! 
 
 
 
