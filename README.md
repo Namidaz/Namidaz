@@ -1,6 +1,6 @@
 ### Hi there 👋 , I am Namidaz
 
-#### 💬 Ask me about 
+#### 💬   Ask me about 
 
 I am a programmer with a passion for web technologies and open source 😄 
 
@@ -10,7 +10,7 @@ I am a programmer with a passion for web technologies and open source 😄
 
 
 
-####  📫 How to reach me: 
+####    📫 How to reach me: 
 
 - [My Blog](https://namidaz.github.io)
 - [Twtter](https://twitter.com/namidzi)
@@ -18,7 +18,7 @@ I am a programmer with a passion for web technologies and open source 😄
 
 
 
-#### **🤔  You are probably looking for...**
+#### **  🤔  You are probably looking for...**
 
 -  [My `dotfiles`](https://github.com/namidaz/dotfiles) - This is how I make myself feel like a fast ⚡ developer.
 
