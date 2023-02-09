@@ -2,7 +2,7 @@
 
 #### 💬  Ask me about 
 
-I am a programmer with a passion for web technologies and open source 😄 
+An ordinary 20-year-old "coder" who always wants to be different from his "current self"
 
 
 
