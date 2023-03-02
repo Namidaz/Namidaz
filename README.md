@@ -1,14 +1,14 @@
 ### Hi there 🥳
 
-#### 💬  Ask me about 
+### Ask me about 
 
 An ordinary 20-year-old "coder" who always wants to be different from his "current self"
 
-####  How to reach me 📫  
+###  How to reach me 📫  
 
 <!-- - [My Blog](https:/colorle.github.io) -->
 <!-- - [Twtter](https://twitter.com/namidzi) -->
-- [E-Mail](MatsumaeOhana16@gmail.com)
+- [E-Mail](matsumaeohana16@gmail.com)
 
 
 
