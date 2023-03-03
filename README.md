@@ -1,6 +1,3 @@
-### Hi there 🥳
-
-
 An ordinary 20-year-old "coder" who always wants to be different from his "current self"
 
 <!-- - [My Blog](https:/colorle.github.io) -->
