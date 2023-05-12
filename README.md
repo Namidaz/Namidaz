@@ -1,13 +1,12 @@
-An ordinary 20-year-old "coder" who always wants to be different from his "current self"
 
-<!-- - [My Blog](https:/colorle.github.io) -->
-<!-- - [Twtter](https://twitter.com/namidzi) -->
+🤔 An ordinary 20-year-old "coder" who always wants to be different from his "current self"
+
+- [My Blog](https:/htx7.github.io)
 - [E-Mail](matsumaeohana16@gmail.com)
 
 
 
 <!-- #### **You are probably looking for 🤔** -->
-
 <!-- -  [My `dotfiles`](https://github.com/colorle/dotfiles) - This is how I make myself feel like a fast ⚡ developer. -->
 
 
