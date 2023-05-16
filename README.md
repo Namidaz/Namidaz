@@ -1,5 +1,5 @@
 
-🤔 An ordinary 20-year-old "coder" who always wants to be different from his "current self"
+T: An ordinary 20-year-old "coder" who always wants to be different from his "current self"
 
 - [My Blog](https:/htx7.github.io)
 - [E-Mail](matsumaeohana16@gmail.com)
