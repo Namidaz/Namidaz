@@ -1,5 +1,7 @@
 
-T: An ordinary 20-year-old "coder" who always wants to be different from his "current self"
+#(T‸T): An ordinary 20-year-old "coder" who always wants to be different from his "current self"
+
+<img align="right" width="450px" src="https://github-readme-stats-one-bice.vercel.app/api?username=nexmoe&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 - [My Blog](https:/htx7.github.io)
 - [E-Mail](matsumaeohana16@gmail.com)
