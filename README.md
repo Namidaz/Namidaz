@@ -6,7 +6,6 @@
 <img align="right" width="450px" src="https://github-readme-stats-one-bice.vercel.app/api?username=htx7&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 ### I use
-
 <p>
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e2470f?style=flat&logo=html5&logoColor=white" />
