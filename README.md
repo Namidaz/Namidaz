@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3958F&width=435&lines=Hi%EF%BC%8CI+am+young.;T2)](https://git.io/typing-svg)
 
-> T: 一个一直想要变得和“现在的自己”不一样的2?岁普通人。
+T: 一个一直想要变得和“现在的自己”不一样的2?岁普通人。
 
 <img align="right" width="450px" src="https://github-readme-stats-one-bice.vercel.app/api?username=htx7&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
