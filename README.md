@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=214&lines=Hi%2C+I+am+young;I'm+trying+to+be+a+part+of+Datawhale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3958F&width=435&lines=Hi%EF%BC%8CI+am+young.;T2)](https://git.io/typing-svg)
 
 > T: 一个一直想要变得和“现在的自己”不一样的2?岁普通人。
 
