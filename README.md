@@ -15,8 +15,13 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 </p>
 
+<p>
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
+   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
+</p>
 
 
 
